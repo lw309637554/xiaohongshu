@@ -1,74 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T14:59:55.320Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="4NIHq2J0sxYFji8qzIlp" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-14T15:13:03.064Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="RW-maXCTvJ27piz6ZwDg" version="24.5.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1242" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tU8QPCNGm-OaERnpYdXL-3" value="" style="swimlane;startSize=20;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=0;containerType=tree;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="170" y="230" width="460" height="320" as="geometry" />
+        <mxCell id="tU8QPCNGm-OaERnpYdXL-31" value="" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;sortEdges=1;resizable=0;containerType=tree;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="134" y="560" width="560" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="tU8QPCNGm-OaERnpYdXL-4" value="公司名称：？" style="whiteSpace=wrap;html=1;" vertex="1" parent="tU8QPCNGm-OaERnpYdXL-3">
-          <mxGeometry x="40" y="140" width="100" height="40" as="geometry" />
+        <mxCell id="tU8QPCNGm-OaERnpYdXL-32" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;公司名称：？&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="tU8QPCNGm-OaERnpYdXL-31">
+          <mxGeometry x="215" y="40" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tU8QPCNGm-OaERnpYdXL-5" value="使命" style="whiteSpace=wrap;html=1;" vertex="1" parent="tU8QPCNGm-OaERnpYdXL-3">
-          <mxGeometry x="190" y="20" width="100" height="40" as="geometry" />
+        <mxCell id="tU8QPCNGm-OaERnpYdXL-33" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;使命&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tU8QPCNGm-OaERnpYdXL-31">
+          <mxGeometry x="20" y="130" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tU8QPCNGm-OaERnpYdXL-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="tU8QPCNGm-OaERnpYdXL-3" source="tU8QPCNGm-OaERnpYdXL-4" target="tU8QPCNGm-OaERnpYdXL-5">
+        <mxCell id="tU8QPCNGm-OaERnpYdXL-34" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="tU8QPCNGm-OaERnpYdXL-31" source="tU8QPCNGm-OaERnpYdXL-32" target="tU8QPCNGm-OaERnpYdXL-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tU8QPCNGm-OaERnpYdXL-7" value="愿景" style="whiteSpace=wrap;html=1;" vertex="1" parent="tU8QPCNGm-OaERnpYdXL-3">
-          <mxGeometry x="190" y="100" width="100" height="40" as="geometry" />
+        <mxCell id="tU8QPCNGm-OaERnpYdXL-35" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;愿景&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="tU8QPCNGm-OaERnpYdXL-31">
+          <mxGeometry x="160" y="130" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tU8QPCNGm-OaERnpYdXL-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="tU8QPCNGm-OaERnpYdXL-3" source="tU8QPCNGm-OaERnpYdXL-4" target="tU8QPCNGm-OaERnpYdXL-7">
+        <mxCell id="tU8QPCNGm-OaERnpYdXL-36" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="tU8QPCNGm-OaERnpYdXL-31" source="tU8QPCNGm-OaERnpYdXL-32" target="tU8QPCNGm-OaERnpYdXL-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tU8QPCNGm-OaERnpYdXL-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="tU8QPCNGm-OaERnpYdXL-10" source="tU8QPCNGm-OaERnpYdXL-5" parent="tU8QPCNGm-OaERnpYdXL-3">
+        <mxCell id="tU8QPCNGm-OaERnpYdXL-39" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="tU8QPCNGm-OaERnpYdXL-40" source="tU8QPCNGm-OaERnpYdXL-32" parent="tU8QPCNGm-OaERnpYdXL-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="190" as="sourcePoint" />
+            <mxPoint x="-110.39999999999998" y="760" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tU8QPCNGm-OaERnpYdXL-10" value="帮助1亿人因AI受益" style="whiteSpace=wrap;html=1;" vertex="1" parent="tU8QPCNGm-OaERnpYdXL-3">
-          <mxGeometry x="340" y="20" width="100" height="40" as="geometry" />
+        <mxCell id="tU8QPCNGm-OaERnpYdXL-40" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;品牌标语&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="tU8QPCNGm-OaERnpYdXL-31">
+          <mxGeometry x="300" y="130" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tU8QPCNGm-OaERnpYdXL-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="tU8QPCNGm-OaERnpYdXL-12" source="tU8QPCNGm-OaERnpYdXL-4" parent="tU8QPCNGm-OaERnpYdXL-3">
+        <mxCell id="tU8QPCNGm-OaERnpYdXL-41" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="tU8QPCNGm-OaERnpYdXL-42" source="tU8QPCNGm-OaERnpYdXL-32" parent="tU8QPCNGm-OaERnpYdXL-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="190" as="sourcePoint" />
+            <mxPoint x="14.600000000000023" y="760" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tU8QPCNGm-OaERnpYdXL-12" value="品牌标语" style="whiteSpace=wrap;html=1;" vertex="1" parent="tU8QPCNGm-OaERnpYdXL-3">
-          <mxGeometry x="190" y="180" width="100" height="40" as="geometry" />
+        <mxCell id="tU8QPCNGm-OaERnpYdXL-42" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;服务客户&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="tU8QPCNGm-OaERnpYdXL-31">
+          <mxGeometry x="440" y="130" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tU8QPCNGm-OaERnpYdXL-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="tU8QPCNGm-OaERnpYdXL-14" source="tU8QPCNGm-OaERnpYdXL-7" parent="tU8QPCNGm-OaERnpYdXL-3">
+        <mxCell id="tU8QPCNGm-OaERnpYdXL-45" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="tU8QPCNGm-OaERnpYdXL-46" source="tU8QPCNGm-OaERnpYdXL-33" parent="tU8QPCNGm-OaERnpYdXL-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="270" as="sourcePoint" />
+            <mxPoint x="133.60000000000002" y="710" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tU8QPCNGm-OaERnpYdXL-14" value="持续传递AI时代的认知和技能" style="whiteSpace=wrap;html=1;" vertex="1" parent="tU8QPCNGm-OaERnpYdXL-3">
-          <mxGeometry x="340" y="100" width="100" height="40" as="geometry" />
+        <mxCell id="tU8QPCNGm-OaERnpYdXL-46" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;帮助1亿人因AI受益&lt;/span&gt;" style="whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tU8QPCNGm-OaERnpYdXL-31">
+          <mxGeometry x="40" y="220" width="60" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="tU8QPCNGm-OaERnpYdXL-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="tU8QPCNGm-OaERnpYdXL-16" source="tU8QPCNGm-OaERnpYdXL-4" parent="tU8QPCNGm-OaERnpYdXL-3">
+        <mxCell id="tU8QPCNGm-OaERnpYdXL-47" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="tU8QPCNGm-OaERnpYdXL-48" source="tU8QPCNGm-OaERnpYdXL-35" parent="tU8QPCNGm-OaERnpYdXL-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="270" as="sourcePoint" />
+            <mxPoint x="133.60000000000002" y="710" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tU8QPCNGm-OaERnpYdXL-16" value="服务客户" style="whiteSpace=wrap;html=1;" vertex="1" parent="tU8QPCNGm-OaERnpYdXL-3">
-          <mxGeometry x="190" y="260" width="100" height="40" as="geometry" />
+        <mxCell id="tU8QPCNGm-OaERnpYdXL-48" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;持续传递AI时代的认知和技能&lt;/span&gt;" style="whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="tU8QPCNGm-OaERnpYdXL-31">
+          <mxGeometry x="180" y="220" width="60" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="tU8QPCNGm-OaERnpYdXL-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="tU8QPCNGm-OaERnpYdXL-18" source="tU8QPCNGm-OaERnpYdXL-16" parent="tU8QPCNGm-OaERnpYdXL-3">
+        <mxCell id="tU8QPCNGm-OaERnpYdXL-49" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="tU8QPCNGm-OaERnpYdXL-50" source="tU8QPCNGm-OaERnpYdXL-40" parent="tU8QPCNGm-OaERnpYdXL-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="390" as="sourcePoint" />
+            <mxPoint x="414" y="710" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tU8QPCNGm-OaERnpYdXL-18" value="AI时代变革的参与者及旁观者" style="whiteSpace=wrap;html=1;" vertex="1" parent="tU8QPCNGm-OaERnpYdXL-3">
-          <mxGeometry x="340" y="260" width="100" height="40" as="geometry" />
+        <mxCell id="tU8QPCNGm-OaERnpYdXL-50" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;知行合一，驾驭AI&lt;/span&gt;" style="whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="tU8QPCNGm-OaERnpYdXL-31">
+          <mxGeometry x="320" y="220" width="60" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="tU8QPCNGm-OaERnpYdXL-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="tU8QPCNGm-OaERnpYdXL-22" source="tU8QPCNGm-OaERnpYdXL-12" parent="tU8QPCNGm-OaERnpYdXL-3">
+        <mxCell id="tU8QPCNGm-OaERnpYdXL-51" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="tU8QPCNGm-OaERnpYdXL-52" source="tU8QPCNGm-OaERnpYdXL-42" parent="tU8QPCNGm-OaERnpYdXL-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="390" as="sourcePoint" />
+            <mxPoint x="414" y="710" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tU8QPCNGm-OaERnpYdXL-22" value="知行合一，驾驭AI" style="whiteSpace=wrap;html=1;" vertex="1" parent="tU8QPCNGm-OaERnpYdXL-3">
-          <mxGeometry x="340" y="180" width="100" height="40" as="geometry" />
+        <mxCell id="tU8QPCNGm-OaERnpYdXL-52" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;AI时代变革的参与者及旁观者&lt;/span&gt;" style="whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="tU8QPCNGm-OaERnpYdXL-31">
+          <mxGeometry x="460" y="220" width="60" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
